@@ -7,6 +7,9 @@ public class hello{
 	System.out.println("Manyank kod yazarım!");
 	System.out.println("Manyakça kodladım");
 	System.out.println("TANER DE ÇOK PS UYUYO");
+	System.out.println("I develop!");
+
+	
 	
 	}
 }
